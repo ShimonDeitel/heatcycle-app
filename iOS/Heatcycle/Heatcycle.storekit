@@ -1,0 +1,28 @@
+{
+  "identifier" : "Heatcycle",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "heatcycle_pro",
+      "localizations" : [
+        {
+          "description" : "Predictive next-cycle estimate and breeding window calculator",
+          "displayName" : "Heatcycle Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "heatcycle_pro",
+      "referenceName" : "Heatcycle Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
